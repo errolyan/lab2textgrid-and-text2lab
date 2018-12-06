@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # __author__ = "errrolyan"
 # Date: 18-10-16
-# Describe = "修正sinsy导出mono label有-1的问题”
+# Describe = "修正mono label有-1的问题”
 
 import sys
 import re

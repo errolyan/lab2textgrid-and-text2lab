@@ -26,3 +26,6 @@
 ```
 统计音素的时长和出现的频率
 ```
+**注意名字格式**：nitech_jp_song070_f001_***.lab 
+                nitech_jp_song070_f001_***.Textgrid
+                

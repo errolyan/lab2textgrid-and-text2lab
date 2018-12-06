@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # __author__ = "errrolyan"
 # Date: 18-10-16
-# Describe = "读取sinsy官网的log文件，用于制作mono.label 和full.label”
+# Describe = "读取log文件，用于制作mono.label 和full.label”
 import os,re
 
 def fileread_log(pathlog):

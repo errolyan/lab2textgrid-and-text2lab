@@ -1,3 +1,5 @@
+# 教程地址
+- [歌声合成视频课程地址](https://edu.csdn.net/course/detail/31938)
 # lab2textgrid-and-text2lab
 .
 ├── lab_to_lab.py
